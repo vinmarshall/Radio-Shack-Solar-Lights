@@ -1,0 +1,9 @@
+These files are the plans for the "Solar Yard Lights" project
+that was featured in the June 2012 issue of Popular Science.  Look
+at the instructions file for more information.
+
+instructions.pdf - Instructions for the project
+
+./parts - BOM for the project
+
+./schematic - schematic for the on/off circuit
